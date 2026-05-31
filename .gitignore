@@ -223,3 +223,6 @@ report.html
 data/
 *.ipynb
 storage/
+.idea/
+.vscode/
+backtests/
