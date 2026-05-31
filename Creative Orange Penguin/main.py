@@ -1,6 +1,6 @@
 from AlgorithmImports import *
 
-
+# version control test
 class BasicTemplateAlgorithm(QCAlgorithm):
 
     def initialize(self):
