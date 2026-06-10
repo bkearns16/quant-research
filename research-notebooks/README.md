@@ -11,7 +11,9 @@ and documents findings, limitations, and next iterations.
 | Notebook | Strategy | Status | Key Finding |
 |---|---|---|---|
 | `short_put.ipynb` | SPY credit put spread — VIX < 20 filter, 14 DTE, 30/20Δ | Complete | 80.1% win rate across 176 trades — edge is regime-dependent, VIX level filter insufficient alone |
+### SPY Credit Put Spread — Cumulative P&L
 
+![SPY Credit Put Spread Equity Curve](assets/short_put_equity_curve.png)
 ---
 
 *Notebooks are added when research is complete and findings are documented.*
