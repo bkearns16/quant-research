@@ -221,7 +221,6 @@ __marimo__/
 lean.json
 report.html
 data/
-*.ipynb
 storage/
 .idea/
 .vscode/

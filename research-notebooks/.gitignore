@@ -1,0 +1,8 @@
+backtests/
+config.json
+main.py
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+*.iml
